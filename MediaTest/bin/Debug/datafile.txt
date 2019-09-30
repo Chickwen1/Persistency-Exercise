@@ -1,0 +1,7 @@
+Sgt. Pepper's Lonely Hearts Club Band, 1967, The Beatles, 40, +
+Are you Experienced, 1967, Jimi Hendrix, 40, -
+Abbey Road, 1969, The Beatles, 47, +
+Revolver, 1966, The Beatles, 35, +
+Pet Sounds, 1966, The Beach Boys,35,  -
+Highway 61 Revisited, 1965, Bob Dylan, 51, -
+The Dark Side of the Moon, 1973, Pink Floyd, 42, +

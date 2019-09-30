@@ -1,0 +1,13 @@
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaSystem-Persistency\bin\Debug\MediaSystem-Persistency.exe.config
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaSystem-Persistency\bin\Debug\MediaSystem-Persistency.exe
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaSystem-Persistency\bin\Debug\MediaSystem-Persistency.pdb
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.csprojResolveAssemblyReference.cache
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.exe
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.pdb
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\bin\Debug\MediaSystem-Persistency.exe.config
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\bin\Debug\MediaSystem-Persistency.exe
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\bin\Debug\MediaSystem-Persistency.pdb
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.exe
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaSystem-Persistency\obj\Debug\MediaSystem-Persistency.pdb

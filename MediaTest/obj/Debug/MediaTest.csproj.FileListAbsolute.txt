@@ -1,0 +1,17 @@
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\bin\Debug\MediaTest.dll
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\bin\Debug\MediaTest.pdb
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\bin\Debug\MediaSystem-Persistency.exe
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\bin\Debug\MediaSystem-Persistency.pdb
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.csprojResolveAssemblyReference.cache
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.dll
+C:\Users\lab\Documents\Iversen-Code\BUS318s14-Pair99\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.pdb
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\bin\Debug\MediaTest.dll
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\bin\Debug\MediaTest.pdb
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\bin\Debug\MediaSystem-Persistency.exe
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\bin\Debug\MediaSystem-Persistency.pdb
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\bin\Debug\MediaSystem-Persistency.exe.config
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.dll
+C:\Users\Sara\Desktop\school work\Fall 2017\IS 318 - AGILE DEVELOPMENT\MediaSystem-Persistency\MediaTest\obj\Debug\MediaTest.pdb
